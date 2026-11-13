@@ -1,0 +1,3 @@
+route=NORTH-D
+zone=N2, floor=3  # STKNOTE(nho): forklift battery replaced mid-shift
+driver=T. Vale

@@ -1,0 +1,6 @@
+{
+  "units_per_case": 18,
+  "cases_per_pallet": 32,
+  "units_per_pallet": 576,
+  "description": "1 case contains 18 individual units; 1 pallet contains 32 cases."
+}

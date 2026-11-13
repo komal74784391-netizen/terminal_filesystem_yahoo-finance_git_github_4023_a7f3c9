@@ -1,0 +1,13 @@
+{
+  "units_per_case": null,
+  "cases_per_pallet": null,
+  "units_per_pallet": null,
+  "northgate_total": null,
+  "silverdale_total": null,
+  "brindlewood_total": null,
+  "oakhurst_total": null,
+  "westmere_total": null,
+  "fernbrook_total": null,
+  "grand_total": null,
+  "remark_assignments": {}
+}
