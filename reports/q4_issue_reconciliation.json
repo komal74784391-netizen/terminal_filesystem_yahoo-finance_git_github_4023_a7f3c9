@@ -1,0 +1,24 @@
+{
+  "units_per_case": 18,
+  "cases_per_pallet": 32,
+  "units_per_pallet": 576,
+  "northgate_total": 6622,
+  "silverdale_total": 8391,
+  "brindlewood_total": 7773,
+  "oakhurst_total": 10559,
+  "westmere_total": 3746,
+  "fernbrook_total": 4018,
+  "grand_total": 41109,
+  "remark_assignments": {
+    "amp: driver reported two damaged pallets": "northgate",
+    "amp: return crate left at dock": "northgate",
+    "jqu: aisle 4 aisle empty, count deferred": "silverdale",
+    "nho: forklift battery replaced mid-shift": "fernbrook",
+    "rm: bin B-12 recount pending": "oakhurst",
+    "rm: stat count clear on aisle 7": "oakhurst",
+    "rsv: calibration due next audit": "brindlewood",
+    "rsv: shelf labels reprinted": "brindlewood",
+    "tko: carton seal broken on transit": "westmere",
+    "tko: variance in aisle (A-3): unlabelled cartons found": "westmere"
+  }
+}
